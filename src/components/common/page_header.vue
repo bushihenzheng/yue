@@ -12,23 +12,23 @@
 <script>
   const TAB = [
     {
-      name: '关于我们',
+      name: 'about us',
       href: '/',
     },
     {
-      name: '主营产品',
+      name: 'main products',
       href: '/product',
     },
     {
-      name: '关于服务',
+      name: 'about service',
       href: '/about_service',
     },
     {
-      name: '公司荣誉',
+      name: 'about honor',
       href: '/honour',
     },
     {
-      name: '联系我们',
+      name: 'contact us',
       href: '/call_us',
     },
   ]

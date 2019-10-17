@@ -12,7 +12,7 @@
       </div>
       <div id="item3">
         <img width="200px;" height="200px" src="./../../../static/assets/timg.jpg">
-        <span>公司二维码</span>
+        <span>Company Two-Dimensional Code</span>
       </div>
     </div>
   </div>

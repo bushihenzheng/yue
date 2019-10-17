@@ -3,15 +3,15 @@
     <img style="width: 100%;height: 500px" src="./../../../../static/assets/backgroundImg/Nipic_1436674_20190325175933457399.jpg"/>
     <div class="body">
       <div style="overflow: hidden">
-        <strong style="float: right;">首页>主营产品</strong>
+        <strong style="float: right;">home>main products</strong>
       </div>
       <div style="display: flex;justify-content: center;align-items: center">
-        <img style="width: 50%;height: 400px;" src="./../../../../static/assets/backgroundImg/图像 56.png">
+        <img style="width: 50%;height: 400px;" src="./../../../../static/assets/backgroundImg/图像 56.jpg">
         <div style="height: 300px;width: 50%;padding-left: 70px;padding-right: 70px;box-shadow: #ebeef5 5px 10px 18px 5px">
           <span style="font-weight: bold;font-size: 24px;padding-bottom: 15px;
-    border-bottom: solid red;">主营产品</span>
+    border-bottom: solid red;">main products</span>
           <div class="font">
-            优质的产品质量：先进的生产设备，完备的检测仪器，最专业的工程师为产品质量保驾护航
+
           </div>
         </div>
       </div>
