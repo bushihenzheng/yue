@@ -1,9 +1,9 @@
 <template>
   <div>
-    <img style="width: 100%;height: 500px;" src="./../../../../static/assets/backgroundImg/Nipic_10673188_20180501192030932089.jpg"/>
+    <img style="width: 100%;height: 300px;" src="./../../../../static/assets/backgroundImg/12.jpg"/>
     <div class="body">
       <div style="display: flex;justify-content: center;align-items: center">
-        <img style="width: 50%;height: 400px;" src="./../../../../static/assets/backgroundImg/12341569827088_.pic_hd.jpg">
+        <img style="width: 50%;height: 400px;" src="./../../../../static/assets/backgroundImg/2.jpg">
         <div style="height: 300px;width: 50%;padding-left: 70px;padding-right: 70px;box-shadow: #ebeef5 5px 10px 18px 5px">
           <span style="font-weight: bold;font-size: 24px;padding-bottom: 15px;
     border-bottom: solid red;">about us</span>

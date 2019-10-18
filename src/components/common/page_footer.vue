@@ -11,7 +11,7 @@
         <span>Mobile:+86 136 5209 1506</span>
       </div>
       <div id="item3">
-        <img width="200px;" height="200px" src="./../../../static/assets/timg.jpg">
+        <img width="100px;" height="100px" src="./../../../static/assets/timg.jpg">
         <span>Company Two-Dimensional Code</span>
       </div>
     </div>
@@ -26,7 +26,7 @@
 
 <style scoped>
   .roayl{
-    height: 50px;
+    height: 30px;
     width: 100%;
     background-color: rgb(218,24,24);
     position: relative;
@@ -34,12 +34,12 @@
   .item{
     position: absolute;
     right: 400px;
-    top: 14px;
+    top: 4px;
     color: white;
   }
   .footer{
     display: flex;
-    height: 300px;
+    height: 150px;
     width: 100%;
     padding: 0 300px;
   }

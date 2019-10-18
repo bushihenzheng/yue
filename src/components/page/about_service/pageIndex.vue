@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img style="width: 100%;height: 500px;" src="./../../../../static/assets/backgroundImg/1241.jpg"/>
+    <img style="width: 100%;height: 300px;" src="./../../../../static/assets/backgroundImg/1.jpg"/>
     <div class="body">
       <div style="overflow: hidden;height: 40px">
         <strong style="float: right">home>about service</strong>
@@ -26,11 +26,11 @@
         </div>
       </div>
     </div>
-    <div style="display: flex;height: 800px;margin-top: 80px">
-      <img width="25%" src="./../../../../static/assets/serive/1.jpg">
-      <img width="25%" src="./../../../../static/assets/serive/2.jpg">
-      <img width="25%" src="./../../../../static/assets/serive/3.jpg">
-      <img width="25%" src="./../../../../static/assets/serive/4.jpg">
+    <div style="display: flex;height: 200px;margin: 0 500px 20px 470px">
+      <img width="25%" src="./../../../../static/assets/backgroundImg/4.jpg">
+      <img width="25%" src="./../../../../static/assets/backgroundImg/5.jpg">
+      <img width="25%" src="./../../../../static/assets/backgroundImg/6.jpg">
+      <img width="25%" src="./../../../../static/assets/backgroundImg/7.jpg">
     </div>
   </div>
 </template>

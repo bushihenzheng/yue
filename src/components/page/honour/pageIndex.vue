@@ -1,12 +1,12 @@
 <template>
   <div>
-    <img style="width: 100%;height: 500px" src="./../../../../static/assets/backgroundImg/alex-wong-l5Tzv1alcps-unsplash.jpg"/>
+    <img style="width: 100%;height: 300px" src="./../../../../static/assets/backgroundImg/9.jpg"/>
     <div class="body">
       <div style="overflow: hidden">
         <strong style="float: right">home>about honor</strong>
       </div>
       <div style="display: flex;justify-content: center;align-items: center">
-        <div style="height: 300px;width: 100%;padding-left: 70px;padding-right: 70px;">
+        <div style="height: 200px;width: 100%;padding-left: 70px;padding-right: 70px;">
           <span style="font-weight: bold;font-size: 24px;padding-bottom: 15px;
     border-bottom: solid red;">about honor</span>
           <div class="font">
@@ -14,12 +14,13 @@
           </div>
         </div>
       </div>
-      <el-carousel :interval="4000" type="card" height="400px">
-        <el-carousel-item v-for="item in 7" :key="item">
-          <img width="100%;"  :src="getHonourImg(item)">
-        </el-carousel-item>
-      </el-carousel>
-
+      <div style="width: 800px;margin-left: 150px">
+        <el-carousel :interval="4000" type="card" height="300px">
+          <el-carousel-item v-for="item in 7" :key="item">
+            <img width="100%;"  :src="getHonourImg(item)">
+          </el-carousel-item>
+        </el-carousel>
+      </div>
     </div>
   </div>
 </template>
