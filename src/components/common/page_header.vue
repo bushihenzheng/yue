@@ -1,6 +1,8 @@
 <template>
    <div class="box">
-       <div class="logo">LOGO</div>
+       <div class="logo">
+         <img style="width: 40px;height: 40px" src="./../../../static/assets/backgroundImage/logo.jpg">
+       </div>
        <div class="right">
          <router-link v-for="(item,index) in tab" :key="index" :to="item.href">
            <span style="margin-left: 50px">{{item.name}}</span>

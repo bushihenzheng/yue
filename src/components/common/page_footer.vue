@@ -4,7 +4,9 @@
       <div class="item">R O Y A L</div>
     </div>
     <div class="footer">
-      <div id="item1">LOGO</div>
+      <div id="item1">
+        <img style="width: 60px;height: 60px" src="./../../../static/assets/backgroundImage/logo.jpg">
+      </div>
       <div id="item2">
         <span>Adress: RM504 Fortune zone park Tianjin China</span>
         <span>Email：chinaroyalsteel@163.com</span>
@@ -33,7 +35,7 @@
   }
   .item{
     position: absolute;
-    right: 400px;
+    right: 230px;
     top: 4px;
     color: white;
   }
@@ -41,7 +43,7 @@
     display: flex;
     height: 150px;
     width: 100%;
-    padding: 0 300px;
+    padding: 0 calc(50% - 550px);
   }
   #item1{
     width: 200px;
@@ -60,7 +62,7 @@
   }
   #item3{
     display: flex;
-    flex: 1;
+    width: 600px;
     flex-direction: column;
     justify-content: center;
     align-items: center;

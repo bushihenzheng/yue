@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img style="width: 100%;height: 300px" src="./../../../../static/assets/backgroundImg/9.jpg"/>
+    <img style="width: 100%;height: 400px" src="./../../../../static/assets/backgroundImg/9.jpg"/>
     <div class="body">
       <div style="overflow: hidden">
         <strong style="float: right">home>about honor</strong>
@@ -43,7 +43,8 @@
 
 <style scoped>
   .body{
-    padding: 20px 400px;
+    padding: 20px calc(50% - 550px);
+    width: 1100px;
   }
   .font{
     margin-top: 40px;

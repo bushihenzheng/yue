@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img style="width: 100%;height: 300px;" src="./../../../../static/assets/backgroundImg/12.jpg"/>
+    <img style="width: 100%;height: 400px;" src="./../../../../static/assets/backgroundImg/12.jpg"/>
     <div class="body">
       <div style="display: flex;justify-content: center;align-items: center">
         <img style="width: 50%;height: 400px;" src="./../../../../static/assets/backgroundImg/2.jpg">
@@ -53,7 +53,8 @@
 
 <style scoped>
   .body{
-    padding: 20px 400px;
+    padding: 20px calc(50% - 550px);
+    width: 1100px;
   }
   .font{
     margin-top: 40px;
