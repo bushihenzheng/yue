@@ -6,7 +6,7 @@
         <img style="width: 50%;height: 400px;" src="./../../../../static/assets/backgroundImg/2.jpg">
         <div style="height: 300px;width: 50%;padding-left: 70px;padding-right: 70px;box-shadow: #ebeef5 5px 10px 18px 5px">
           <span style="font-weight: bold;font-size: 24px;padding-bottom: 15px;
-    border-bottom: solid red;">about us</span>
+    border-bottom: solid red;">About Us</span>
           <div class="font">
             China Royal Group Ltd was established in Tianjin, China in 2008. It is a large and comprehensive group integrating production R&D and trade.Our company is committed to the export of steel products including steel pipes, steel plates, steel profiles, steel coils, and other steel products for more than ten years. Our clients are worldwide with 185 countries and regions, especially in the Americas, Europe, Middle East and Southeast Asia. The annual export volume is about 500,000 tons.
           </div>

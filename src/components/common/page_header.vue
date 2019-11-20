@@ -1,7 +1,7 @@
 <template>
    <div class="box">
        <div class="logo">
-         <img style="width: 40px;height: 40px" src="./../../../static/assets/backgroundImage/logo.jpg">
+         <img style="width: 80px;height: 80px" src="./../../../static/assets/backgroundImage/logo.jpg">
        </div>
        <div class="right">
          <router-link v-for="(item,index) in tab" :key="index" :to="item.href">
@@ -14,23 +14,23 @@
 <script>
   const TAB = [
     {
-      name: 'about us',
+      name: 'About Us',
       href: '/',
     },
     {
-      name: 'main products',
+      name: 'Main Products',
       href: '/product',
     },
     {
-      name: 'about service',
+      name: 'About Service',
       href: '/about_service',
     },
     {
-      name: 'about honor',
+      name: 'About Honor',
       href: '/honour',
     },
     {
-      name: 'contact us',
+      name: 'Contact Us',
       href: '/call_us',
     },
   ]
@@ -48,9 +48,10 @@
   .box{
     display:flex;
     background-color: rgb(218,24,24);
+    height: 90px;
   }
   .logo{
-    height: 50px;
+    height: 90px;
     width: 400px;
     display: flex;
     justify-content: center;
@@ -62,6 +63,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 18px;
   }
   a {
     text-decoration:none;

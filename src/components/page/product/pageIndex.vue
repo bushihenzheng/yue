@@ -3,13 +3,13 @@
     <img style="width: 100%;height: 400px" src="./../../../../static/assets/backgroundImg/10.jpg"/>
     <div class="body">
       <div style="overflow: hidden">
-        <strong style="float: right;">home>main products</strong>
+        <strong style="float: right;">Home>Main Products</strong>
       </div>
-      <div style="display: flex;justify-content: center;align-items: center">
+      <div style="display: flex;justify-content: center;align-items: center;margin-bottom: 100px;">
         <img style="width: 50%;height: 300px;" src="./../../../../static/assets/backgroundImg/8.jpg">
-        <div style="height: 200px;width: 50%;padding-left: 70px;padding-right: 70px;box-shadow: #ebeef5 5px 10px 18px 5px">
+        <div style="height: 250px;width: 50%;padding-left: 70px;padding-right: 70px;margin-top:50px;box-shadow: #ebeef5 5px 10px 18px 5px">
           <span style="font-weight: bold;font-size: 24px;padding-bottom: 15px;
-    border-bottom: solid red;">main products</span>
+    border-bottom: solid red;">Main Products</span>
           <div class="font">
 
           </div>

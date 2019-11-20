@@ -3,12 +3,12 @@
     <img style="width: 100%;height: 400px;" src="./../../../../static/assets/backgroundImg/1.jpg"/>
     <div class="body">
       <div style="overflow: hidden;height: 40px">
-        <strong style="float: right">home>about service</strong>
+        <strong style="float: right">Home>About Service</strong>
       </div>
       <div style="display: flex;justify-content: center;align-items: center">
         <div style="width: 100%;padding-left: 70px;padding-right: 70px;">
           <span style="font-weight: bold;font-size: 24px;padding-bottom: 15px;
-    border-bottom: solid red;">about service</span>
+    border-bottom: solid red;">About Service</span>
           <div class="font">
             <li>
               High-quality Product: We have advanced production and testing equipment, and the most professional engineers to promise the best quality!
@@ -26,7 +26,7 @@
         </div>
       </div>
     </div>
-    <div style="display: flex;height: 200px;justify-content: center">
+    <div style="display: flex;height: 200px;justify-content: center;margin-bottom: 40px;">
       <img width="200px" src="./../../../../static/assets/backgroundImg/4.jpg">
       <img width="200px" src="./../../../../static/assets/backgroundImg/5.jpg">
       <img width="200px" src="./../../../../static/assets/backgroundImg/6.jpg">
